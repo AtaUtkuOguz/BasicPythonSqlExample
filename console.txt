@@ -1,0 +1,23 @@
+Connection to SQLite DB successful
+Table created successfully
+File Read Started for transactions.csv 
+File Read Complete for transactions.csv 
+File Read Started for users.csv 
+File Read Complete for users.csv 
+(1, 5216.589999999998, 90)
+(0, 4084.5999999999995, 75)
+(6, 3951.24, 81)
+(7, 3918.570000000001, 78)
+(3, 3747.52, 74)
+(9, 3653.62, 65)
+(2, 3569.6899999999987, 67)
+(8, 3549.019999999999, 71)
+(5, 3527.759999999999, 68)
+(4, 3348.7600000000007, 66)
+(10, 3048.8899999999994, 57)
+File task1.csv Write Started  
+File task1.csv Write Finished
+File task2.csv Write Started  
+File task2.csv Write Finished
+
+Process finished with exit code 0
